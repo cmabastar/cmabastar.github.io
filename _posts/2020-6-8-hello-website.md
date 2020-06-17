@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Website 2020
+title: Hello Website 2020!
 ---
 
 Finally I was able to setup my own website. 
