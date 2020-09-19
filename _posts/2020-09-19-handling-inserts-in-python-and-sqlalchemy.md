@@ -1,6 +1,8 @@
 ---
 layout: post
+comments: true
 title: Handling Inserts In Python and Sqlalchemy
+
 ---
 
 Dealing database inserts is one of the most crucial parts of your data lifecycle. It could range from a single insert and multiple inserts. However, oftentimes we face some bottlenecks on handling inserts depending on the size of the data we are inserting.
