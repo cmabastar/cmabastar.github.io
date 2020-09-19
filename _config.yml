@@ -66,6 +66,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
+    default_lang: python
     css_class: 'highlight'
 
 # Set the Sass partials directory, as we're using @imports
